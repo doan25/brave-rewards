@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: facebook.com
+Token: 870d04b60d735b18647624273fbda7084ee7d7e82c58a4b51ac8fe7d8c6f1711
